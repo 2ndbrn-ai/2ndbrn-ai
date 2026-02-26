@@ -7,12 +7,17 @@ This repository is the public specification and reference scaffolding.
 Early-stage. Spec-first.
 
 ## What’s here
-- /docs – public documentation
-- /diagrams – architecture diagrams
-- /spec – spec documents and conventions
+- /docs – sanitized public architecture documentation
+- /diagrams – architecture diagrams (public-safe only)
+- /spec – spec documents and publish boundaries
+
+## Scope (v1)
+- Includes: transcript-first pipeline fed by diarized transcript inputs
+- Excludes: raw-audio processing implementation details and private operational internals
 
 ## What’s NOT here
-No private transcripts, keys, logs, databases, or production integrations.
+No private transcripts, raw audio, keys, logs, databases, or production integrations.
+No personal/work identity details.
 
 ## License
-TBD (Apache-2.0 planned)
+Apache-2.0. See LICENSE.
