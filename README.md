@@ -19,5 +19,12 @@ Early-stage. Spec-first.
 No private transcripts, raw audio, keys, logs, databases, or production integrations.
 No personal/work identity details.
 
+## What this is not
+- Not a dump of production code/configuration
+- Not a corpus of personal transcripts
+- Not a raw-audio processing repository
+- Not a hosted SaaS service
+- Not a source of secrets, logs, or private infrastructure details
+
 ## License
 Apache-2.0. See LICENSE.
