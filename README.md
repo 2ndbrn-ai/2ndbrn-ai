@@ -1,6 +1,6 @@
-# 2ndBrn
+# 2ndBrn.ai
 
-2ndBrn is a transcript-first, privacy-first personal knowledge operating system.
+2ndBrn.ai is a transcript-first, privacy-first personal knowledge operating system.
 This repository is the public specification and reference scaffolding.
 
 ## Status

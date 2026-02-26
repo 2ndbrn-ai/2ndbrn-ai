@@ -1,7 +1,7 @@
-# 2ndBrn Public Architecture (Sanitized v1)
+# 2ndBrn.ai Public Architecture (Sanitized v1)
 
 ## One-line definition
-2ndBrn is a transcript-first architecture for turning conversations into verified, durable knowledge with a human calibration gate.
+2ndBrn.ai is a transcript-first architecture for turning conversations into verified, durable knowledge with a human calibration gate.
 
 ## Design principles
 1. **Transcript-first memory** over ephemeral chat context

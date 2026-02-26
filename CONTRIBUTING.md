@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in improving 2ndBrn.
+Thanks for your interest in improving 2ndBrn.ai.
 
 ## Project Scope
 This repository is for **public-safe architecture and specification artifacts**.
