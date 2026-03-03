@@ -1,9 +1,9 @@
 # Transcript-First Pipeline (Public Spec)
 
 ## Purpose
-Convert diarized transcripts into structured, reviewable knowledge artifacts while keeping private source data out of public surfaces.
+Convert diarized transcripts into structured, reviewable knowledge artifacts.
 
-## Input boundary
+## Input contract
 - Input is a **diarized transcript document** (text)
 - No raw audio processing is specified in this public repo
 - Upstream transcript generation mechanism is intentionally abstracted
@@ -27,10 +27,10 @@ Convert diarized transcripts into structured, reviewable knowledge artifacts whi
 7. **Downstream publish/push (optional)**
    - Only verified entities may be exported to external systems
 
-## Non-goals in this spec
+## Out-of-scope for this spec
 - Raw media transcription details
 - Vendor-specific diarization internals
 - Production deployment details tied to a personal instance
 
 ## Core invariant
-No public artifact should reveal private transcript content, private identity context, or source-audio lineage.
+Public examples should remain abstracted and reusable.

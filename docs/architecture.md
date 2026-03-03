@@ -7,7 +7,7 @@
 1. **Transcript-first memory** over ephemeral chat context
 2. **Verification before automation**
 3. **Human semantic calibration** as a first-class control plane
-4. **Privacy by default** and strict data boundaries
+4. **Data minimization by design**
 5. **Composable agents** with explicit responsibilities
 
 ## Logical components
@@ -25,7 +25,7 @@
 ## Failure modes and controls
 - Hallucinated extraction → blocked by review gate
 - Over-automation → blocked by verification default
-- Identity leakage → blocked by redaction standard and publish checks
+- Scope drift → blocked by publish checks and review gates
 
 ## Public/reproducible intent
-This repository publishes architecture and safe scaffolding. It does not publish private operational data or sensitive integration details.
+This repository publishes architecture and reference scaffolding only.
