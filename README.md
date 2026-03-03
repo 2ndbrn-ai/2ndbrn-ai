@@ -11,6 +11,16 @@ Early-stage. Spec-first.
 - /diagrams – architecture diagrams (public-safe only)
 - /spec – spec documents and publish boundaries
 
+## Start here
+- Architecture: `docs/architecture.md`
+- Privacy boundary: `docs/privacy-boundary.md`
+- Non-goals: `docs/non-goals.md`
+- Pipeline overview: `docs/pipeline.md`
+- Threat model: `docs/threat-model.md`
+- Redaction standard: `docs/redaction-standard.md`
+- Security reporting: `SECURITY.md` (`security@2ndbrn.ai`)
+- Contribution guide: `CONTRIBUTING.md`
+
 ## Scope (v1)
 - Includes: transcript-first pipeline fed by diarized transcript inputs
 - Excludes: raw-audio processing implementation details and private operational internals
