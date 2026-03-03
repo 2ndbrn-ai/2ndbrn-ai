@@ -13,11 +13,7 @@ Early-stage. Spec-first.
 
 ## Start here
 - Architecture: `docs/architecture.md`
-- Privacy boundary: `docs/privacy-boundary.md`
-- Non-goals: `docs/non-goals.md`
 - Pipeline overview: `docs/pipeline.md`
-- Threat model: `docs/threat-model.md`
-- Redaction standard: `docs/redaction-standard.md`
 - Security reporting: `SECURITY.md` (`security@2ndbrn.ai`)
 - Contribution guide: `CONTRIBUTING.md`
 
