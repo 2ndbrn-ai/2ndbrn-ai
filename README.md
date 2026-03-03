@@ -22,19 +22,13 @@ Early-stage. Spec-first.
 - Contribution guide: `CONTRIBUTING.md`
 
 ## Scope (v1)
-- Includes: transcript-first pipeline fed by diarized transcript inputs
-- Excludes: raw-audio processing implementation details and private operational internals
+- Transcript-first pipeline architecture fed by diarized transcript inputs
+- Reference docs, interfaces, and operating model
 
-## What’s NOT here
-No private transcripts, raw audio, keys, logs, databases, or production integrations.
-No personal/work identity details.
-
-## What this is not
-- Not a dump of production code/configuration
-- Not a corpus of personal transcripts
-- Not a raw-audio processing repository
-- Not a hosted SaaS service
-- Not a source of secrets, logs, or private infrastructure details
+## Non-goals
+- Production deployment internals
+- Raw-audio processing implementation details
+- Hosted SaaS runtime
 
 ## License
 Apache-2.0. See LICENSE.
