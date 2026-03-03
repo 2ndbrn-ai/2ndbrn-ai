@@ -7,7 +7,7 @@ It must never contain credentials, private transcripts, raw audio artifacts, or 
 ## Reporting a Vulnerability
 Please report security issues privately by emailing:
 
-- founder@2ndbrn.ai
+- security@2ndbrn.ai
 
 Include:
 - clear description of the issue
